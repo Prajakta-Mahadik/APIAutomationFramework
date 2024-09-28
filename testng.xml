@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/AP-1058/IdeaProjects/APIAutomationFramework">
+        <classes>
+            <class name="org.example.testcases.curd.testCreateBookingPOST">
+            <methods>
+                <include name="test01CreateBookingPost"/>
+            </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
