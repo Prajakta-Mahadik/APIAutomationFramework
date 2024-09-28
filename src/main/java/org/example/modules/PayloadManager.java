@@ -1,2 +1,5 @@
-package org.example.modules;public class payloadManager {
+package org.example.modules;
+
+public class PayloadManager {
+    //Serialization & De Serialization
 }
